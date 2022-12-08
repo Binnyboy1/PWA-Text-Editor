@@ -6,3 +6,7 @@ We use Babel to convert ES6+ elements into elements that our older, stable versi
 We use mini-css-extract-plugin to generate a CSS file, which can be used to load CSS asynchronously // 10
 We use html-webpack-plugin to generate an Html file // 10
 We use webpack-dev-server to automatically launch our application in a browser // 12
+
+npm run install
+npm run build
+npm run start:dev
