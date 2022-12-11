@@ -24,4 +24,4 @@ In the terminal, run `npm start` to get the project running. To launch the proje
 npm start
 ```
 
-[Deployed Application to try out](https://evening-harbor-55009.herokuapp.com/)
+[Deployed Application](https://evening-harbor-55009.herokuapp.com/)
