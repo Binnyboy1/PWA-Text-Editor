@@ -18,7 +18,7 @@ npm run install
 
 ## Usage
 
-In the terminal, run `npm start` to start up the project.
+In the terminal, run `npm start` to get the project running. To launch the project, you need to navigate to [http://localhost:3000/](http://localhost:3000/) in a browser. If you want to install the application, you can simply click the `Install!` button while in the browser.
 
 ```
 npm start
