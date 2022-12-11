@@ -9,7 +9,7 @@ We were tasked with creating a web application that functions as a text editor. 
 ## Installation
 
 1. Git clone repo into VSCode
-2. Right click `Develop` folder within the `PAW-Text-Editor` folder and select `Open in Integrated Terminal`
+2. Right click the `PAW-Text-Editor` folder and select `Open in Integrated Terminal`
 3. Then you can run `npm run install` to complete the installation
 
 ```
