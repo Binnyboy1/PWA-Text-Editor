@@ -1,12 +1,27 @@
-# Text Editor Starter Code
+# PWA Text Editor
 
-We use webpack to bundle our files // 6
-We use css and style loaders to shrink down css components into one file which can be easily bundled // 8
-We use Babel to convert ES6+ elements into elements that our older, stable version can handle // 8
-We use mini-css-extract-plugin to generate a CSS file, which can be used to load CSS asynchronously // 10
-We use html-webpack-plugin to generate an Html file // 10
-We use webpack-dev-server to automatically launch our application in a browser // 12
+## Description
 
+This is the 'Module 19' challenge assignment for the UCF coding bootcamp.
+
+We were tasked with creating a web application that functions as a text editor. This project gave us practice with using the IndexedDB database for storage as well as components that allow our application to work as a Progressive Web Application (PWA).
+
+## Installation
+
+1. Git clone repo into VSCode
+2. Right click `Develop` folder within the `PAW-Text-Editor` folder and select `Open in Integrated Terminal`
+3. Then you can run `npm run install` to complete the installation
+
+```
 npm run install
-npm run build
-npm run start:dev
+```
+
+## Usage
+
+In the terminal, run `npm start` to start up the project.
+
+```
+npm start
+```
+
+[Deployed Application to try out](...)
